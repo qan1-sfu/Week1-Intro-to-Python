@@ -1,51 +1,27 @@
-# Introduction to GitHub and Python Syntax Tutorial
+This week of tutorials will cover the basics of using github, Colab, Jupyter and Python. This first assignment submission is intended as a self-check and for you to be prepared to the rest of the graded assignments in the course.
 
-Welcome to our GitHub and Python Syntax Tutorial! This repository is designed to guide you through the basics of GitHub and Python. You'll engage in hands-on activities using GitHub and work on a Python notebook to grasp Python syntax.
+You are also encouraged to use this assignment as a self-evaluation. If you're having a difficult time completing these tasks, then you may not have sufficient knowledge to complete the rest of the assignments in the course, or you might have to brush up on your Python knowledge to do so.
 
-## Part 1: GitHub Tutorial
+Prerequisites: 
 
-This section will introduce you to the essential functions of GitHub and Git. We start with a slide presentation and then move on to practical exercises.
+Create a githubLinks to an external site. account. 
+You may want to use ColabLinks to an external site., Jupyter LabLinks to an external site. or an IDE of your choice that can run Jupyter Notebooks for this assignment.
+Be familiar with Python basics and Object Oriented Programming (OOP) concepts. 
+Resources if you need help:
 
-###  Github Activities
+How to use gitLinks to an external site. and githubLinks to an external site.
+For any programming issues you face, errors you got: StackOverflowLinks to an external site.
+Tasks:
 
-1. Create Your Own Repository
-2. Create a New Branch
-3. Make a Commit
-4. Create a Pull Request
-5. Merge Pull Request
-6. Fork a Repository
-  
+Create a github account.
+Fork the repositoryLinks to an external site. to your github account.
+Create a new branch in Your Fork
+Make changes in Jupyter Notebook file using Colab:
+Create new examples and a comment explaining it in separate sub-headings in the notebook.
+Commit changes to your branch
+Merge changes with your main branch.
+ 
 
-## Part 2: Python Notebook Tutorial
+Submission in Canvas: your github account name and a link to your forked and changed repository
 
-In this part, you will work on a Python notebook in this repository, which contains a tutorial on Python syntax. Your assignment will involve making changes to this notebook.
-
-### Assignment Steps
-
-1. **Fork this Repository**
-   - Fork this repository to your GitHub account. This will create a copy under your control.
-
-2. **Create a New Branch in Your Fork**
-   - In your forked repository, create a new branch for your changes.
-
-3. **Make Changes in the Python Notebook**
-   - From the new branch (of your forked repo), open the Python notebook on Colab.
-   - Go through the whole notebook and for 20 different sub-headings in the notebook you need to do the following tasks:
-     - Add one new example in the tutorial.
-     - Write a description of the example you added.
-   - Save this updated notebook with the same name  (i.e. Introduction_to_Python.ipynb) and upload directly from Colab to your own Github account's branch that you just created. (Saving with the same name is neccessary so that i can see your changes!)
-   - Commit changes to your branch.
-
-4. **Create a Pull Request**
-   - After making the changes, create a pull request in your forked repository to merge your new branch into your main branch.
-
-5. **Merge Your Pull Request**
-   - Review and then merge the pull request into the main branch of your forked repository.
-
-## Getting Help
-
-If you have any questions or require assistance, please feel free to reach out to Minoo (TA)
-
----
-
-**Note to Students**: This tutorial is an opportunity for you to gain hands-on experience with GitHub and Python. Explore, make mistakes, and learn. Happy coding!
+Even though this is not graded assignment, this will affect your overall course participation marks in case of timely completion of the task. 
